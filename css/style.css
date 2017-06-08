@@ -2,3 +2,67 @@
 wood brown: A89F68;
 army green: 41521F;
 */
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.navbar{
+	background-color: transparent;
+	border: none;
+	z-index: 1;
+
+}
+.navbar-brand{
+	color: white;
+}
+.navbar-default .navbar-brand{
+	color: white;
+	padding-left: 150px;
+	font-weight: bolder;
+}
+.navbar-default .navbar-nav>li>a{
+	color: white;
+	font-weight: bolder;
+} 
+
+.navbar-right{
+	
+	color: white;
+
+}
+.home{
+	background: url('../img/portada.jpg');
+	background-size: cover;
+	height: 100vh;
+	color: white;
+}
+.col-xs-12.col-sm-12.home-info, .foundation-info p{
+	text-align: justify;
+}
+
+.home-info h1{
+	font-weight: bolder;
+}
+.btn-success{
+	font-weight: bolder;
+	background-color: #0F7825;
+	border: none;
+	width: 140px;
+	height: 40px;
+	font-size: 1.3em;
+}
+/*FOUNDATION INFORMATION*/
+.foundation-info h3{
+	font-size: 1.1em
+}
+.foundation-info h1{
+	color: #ACAE63;
+	font-weight: bolder;
+	font-size: 2.2em
+}
+.box-foundation h3{
+	color: #ACAE63;
+	font-size: 1.5em;
+	font-weight: bolder;
+}

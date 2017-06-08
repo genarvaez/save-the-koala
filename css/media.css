@@ -1,0 +1,16 @@
+@media (min-width: 900px){
+	.home-info{
+		padding: 100px 100px 0;
+	}
+	.btn-success{
+		margin-left: 80px;
+	}
+	.foundation-info{
+		padding-top: 250px
+	}
+}
+@media (max-width: 900px){
+	.img-foundation{
+		display: none;
+	}
+}
