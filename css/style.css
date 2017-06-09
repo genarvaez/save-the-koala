@@ -123,3 +123,31 @@ army green: 41521F;
 .how-help-section .glyphicon{
 	font-size: 4.8em;
 }
+.second h2{
+	color: #41521F;;
+}
+.second{
+	background-color: #A89F68;
+	color: black;
+}
+.second p{
+	text-align: center;
+	font-size: 8em;
+	color: white;
+}
+.prueba{
+	display: flex;
+}
+.how-help-section-box li{
+	list-style: none;
+	padding: 15px;
+	border-top: 1px solid white;
+}
+.how-help-section-box .btn{
+	margin: 0;
+	margin-bottom: 30px;
+}
+.how-help-section-box span{
+	font-weight: bolder;
+}
+
