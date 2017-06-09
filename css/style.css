@@ -105,3 +105,21 @@ army green: 41521F;
 .help-box h5, .help-box h3, .help-box h6{
 	font-weight: bolder;
 }
+
+/*HOW HELP SECTION*/
+.how-help-section{
+	color: #A6A772;
+	text-align: center;
+}
+.how-help-section h2{
+	font-weight: bolder;
+	padding: 60px;
+}
+.how-help-section p{
+	text-align: justify;
+	padding: 20px;
+	color: #40418A;
+}
+.how-help-section .glyphicon{
+	font-size: 4.8em;
+}
