@@ -150,4 +150,16 @@ army green: 41521F;
 .how-help-section-box span{
 	font-weight: bolder;
 }
-
+/*FOOTER*/
+.footer{
+	background-color: #41521F;
+	color: white;
+	text-align: justify;
+}
+.footer-box h4, .footer span, .footer li{
+	color: #A89F68;
+	list-style: none;
+}
+.footer-box{
+	padding: 40px;
+}
