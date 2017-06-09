@@ -163,3 +163,11 @@ army green: 41521F;
 .footer-box{
 	padding: 40px;
 }
+p > span{
+	
+	font-size: 0.2em
+}
+.special{
+	position: relative;
+	bottom: 70px;
+}
