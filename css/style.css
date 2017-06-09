@@ -92,3 +92,16 @@ army green: 41521F;
 .easy-box .btn-success{
 	margin: 0;
 }
+/*HELP SECTION*/
+.help-section{
+	background: url('../img/all.jpg');
+	background-size: cover;
+	height: 100vh;
+}
+.help-box{
+	color: white;
+	padding-top: 80px;
+}
+.help-box h5, .help-box h3, .help-box h6{
+	font-weight: bolder;
+}
