@@ -66,3 +66,29 @@ army green: 41521F;
 	font-size: 1.5em;
 	font-weight: bolder;
 }
+/*EASY SECTION*/
+.easy-section{
+	background-color: #ACAE63;
+}
+.image-box img{
+	width: 100%;
+	border: 10px solid white;
+}
+.easy-box h3{
+	color: white;
+	font-size: 1.1em
+}
+.easy-box h1{
+	color: #41521F;
+	font-weight: bolder;
+	font-size: 2.1em;
+}
+.easy-box p{
+	color: white;
+}
+.easy-box{
+	padding: 0 20px;
+}
+.easy-box .btn-success{
+	margin: 0;
+}

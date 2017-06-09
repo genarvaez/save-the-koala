@@ -6,11 +6,17 @@
 		margin-left: 80px;
 	}
 	.foundation-info{
-		padding-top: 250px
+		padding-top: 50px;
+	}
+	.easy-section{
+		padding: 50px;
 	}
 }
+
+
 @media (max-width: 900px){
 	.img-foundation{
 		display: none;
 	}
+
 }
